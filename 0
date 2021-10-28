@@ -1,0 +1,23 @@
+{
+    "name": "JojosTest#0",
+    "description": "Trynna find out how much can I write in this space, i wonder if this is already a few lines, this is just barely 3 lines in my command prompt",
+    "image": "https://raw.githubusercontent.com/Candel343/Test/main/0.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Lava"
+        },
+        {
+            "trait_type": "Terreno",
+            "value": "Land"
+        },
+        {
+            "trait_type": "Personaje",
+            "value": "Dio"
+        },
+        {
+            "trait_type": "Satelite",
+            "value": "Sol"
+        }
+    ]
+}
